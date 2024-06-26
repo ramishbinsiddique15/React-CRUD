@@ -1,4 +1,4 @@
-# React CRUD Application
+# React-CRUD
 
 This is a simple CRUD (Create, Read, Update, Delete) application built with React, Redux, and Bootstrap. The application allows users to perform CRUD operations on a list of users.
 
